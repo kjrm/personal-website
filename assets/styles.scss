@@ -52,3 +52,68 @@
 .min-height-full {
   min-height: 100vh;
 }
+
+.portrait-image {
+  width: 400px;
+  height: 530px;
+}
+
+.hero-container {
+  display: flex;
+  flex-direction: row;
+  font-family: helvetica;
+}
+
+.hero-header {
+ font-size: 40px;
+ margin-bottom: 30px;
+ text-align: start;
+ font-family: helvetica;
+}
+
+.hero-right {
+ padding-left: 40px;
+}
+
+.hero-text {
+  text-align: start;
+  font-size: 24px;
+  margin-bottom: 30px;
+}
+
+.seperator {
+  margin-bottom: 10px;
+}
+
+.social-links-hdr-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.social-links-hdr-inner {
+  padding: 10px 0;
+  margin-right: 10px;
+ }
+
+.contact-icon {
+  max-height: 32px;
+  max-width: 32px;
+}
+
+@media only screen and (max-width: 768px) {
+  .hero-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .portrait-image {
+    max-width: 300px;
+    max-height: 400px;
+    margin-bottom: 20px;
+  }
+
+  .hero-right {
+    padding-left: 0;
+   }
+}

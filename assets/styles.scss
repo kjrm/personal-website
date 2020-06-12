@@ -52,6 +52,23 @@
 .min-height-full {
   min-height: 100vh;
 }
+.hompage {
+  min-height: 85vh;
+}
+
+.color-accent {
+  // background: linear-gradient(#5208ff, #4a05ed);
+  background: linear-gradient(40deg, #3524a3, #2410a3);
+  height: 40px;
+  margin-bottom: 20px;
+}
+
+.color-accent-blog {
+  // background: linear-gradient(#5208ff, #4a05ed);
+  background: linear-gradient(40deg, #ffb300, #ffbb00);
+  height: 40px;
+  margin-bottom: 20px;
+}
 
 .portrait-image {
   width: 300px;
@@ -99,6 +116,46 @@
 .contact-icon {
   max-height: 32px;
   max-width: 32px;
+}
+
+.sub-header {
+  font-size: 35px;
+  margin-bottom: 30px;
+  text-align: start;
+  font-family: helvetica;
+}
+
+.top-bar {
+  background-color: #ffb300;
+}
+
+.post-card {
+  color: black;
+  transition: 0.2s;
+}
+
+.post-card:hover{
+  position: relative; 
+  transform: translateY(-5px);
+  box-shadow: 0 5px 7px rgba(27,31,35,0.15) !important;;
+} 
+
+.custom-footer {
+  color: #ffffff;
+  text-align: center;
+  padding: 50px;
+  background: linear-gradient(40deg, #3524a3, #2410a3);
+}
+
+.social-links-ftr-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.social-links-ftr-inner {
+ padding: 0 10px;
 }
 
 @media only screen and (max-width: 768px) {

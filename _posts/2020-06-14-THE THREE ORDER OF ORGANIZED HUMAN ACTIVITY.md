@@ -3,8 +3,6 @@ title: "The Three Orders of Organized Human Activity"
 published: true
 ---
 
-# **THE THREE ORDERS OF ORGANIZED HUMNAN ACTIVITY**
-
 It is not uncommon for a metaphysical schema to take the form of a foundational triplicate [1]. _The Three Orders of Organized Human Activity_ is such a triplication, whose aim is to usefully frame the complex domain of human relations. The three orders are:
 
 1. The Institutional Order
@@ -21,8 +19,8 @@ The term _organized_ is simply there to omit instances where order seems to have
 
 The figure below illustrates the arrangement of the Three Orders and gives examples of their modes of interaction. These will be further discussed.
 
-<figure>
-  <img src="/assets/blogImages/2020-06-14-figure1.png" alt="The Three Orders" style="width:75%">
+<figure style="text-align: center">
+  <img src="/assets/blogImages/2020-06-14-figure1.png" alt="The Three Orders" style="max-width: 500px">
   <figcaption><i>The Three Orders and examples of their modes of interaction</i></figcaption>
 </figure>
 

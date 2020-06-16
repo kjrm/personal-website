@@ -103,7 +103,7 @@ If the resources of Communication and Transportation determine the _extent_ of s
 
 
 <figure style="text-align: center">
-  <img src="/assets/blogImages/2020-06-16-figure1.png" alt="The Three Orders" style="max-width: 500px; width: 80%">
+  <img src="/assets/blogImages/2020-06-16-figure1.png" alt="The Three Orders" style="max-width: 500px; width: 85%">
   <figcaption><i>Geometric depiction of the Four Dimensions of Cooperative Capital</i></figcaption>
 </figure>
 

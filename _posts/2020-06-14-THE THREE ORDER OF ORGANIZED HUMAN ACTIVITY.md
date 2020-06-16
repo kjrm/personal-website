@@ -20,7 +20,7 @@ The term _organized_ is simply there to omit instances where order seems to have
 The figure below illustrates the arrangement of the Three Orders and gives examples of their modes of interaction. These will be further discussed.
 
 <figure style="text-align: center">
-  <img src="/assets/blogImages/2020-06-14-figure1.png" alt="The Three Orders" style="max-width: 500px">
+  <img src="/assets/blogImages/2020-06-14-figure1.png" alt="The Three Orders" style="max-width: 500px; width: 100%">
   <figcaption><i>The Three Orders and examples of their modes of interaction</i></figcaption>
 </figure>
 

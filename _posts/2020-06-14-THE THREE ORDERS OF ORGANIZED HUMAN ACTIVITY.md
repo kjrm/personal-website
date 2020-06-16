@@ -2,6 +2,7 @@
 title: "The Three Orders of Organized Human Activity"
 published: true
 ---
+**THE THREE ORDERS**
 
 It is not uncommon for a metaphysical schema to take the form of a foundational triplicate [1]. _The Three Orders of Organized Human Activity_ is such a triplication, whose aim is to usefully frame the complex domain of human relations. The three orders are:
 
@@ -38,11 +39,11 @@ Culture is immanent to social relations and interactions. The degree to which a 
 <br>
 **THE TECHNO-ECONOMIC ORDER**
 
-The Techno-economic Order encompasses all the activities in which technologies (both social and physical) are oriented toward the production of surplus value - including other technologies.
+The Techno-economic Order encompasses all the activities in in which technologies (both social and physical) are oriented toward the production of surplus value – which includes other technologies.
 
 In their simplest forms, these technologies are ways of orchestrating matter, energy, and information towards human goals, and the social facilitation thereof [3]. However, the degree to which these processes are automated and decentralized in complex networks, is the degree to which they take on imperatives that are other than human. Hence, whereas the economist Adam Smith wrote about an _invisible hand_ that guides economic activities in a market economy [4], the technologist Kevin Kelly likens the vast network of technology covering the globe to &quot;a very complex organism that often follows its own urges&quot; [5].
 
-The Techno-economic order encompasses all tools that mediate social interactions on a nontrivial scale, i.e. media. Most of these media are not ideologically impartial. They influence interactions, often imperceptibly, by constituting distinct affordance and salience landscapes. In other words, they determine the possibilities and probabilities of human interactions at scale. Technological mediation, therefore, distorts human intent as a consequence of extending human influence along various dimensions6.
+The Techno-economic order encompasses all tools that mediate social interactions on a nontrivial scale, i.e. media. Most of these media are not ideologically impartial. They influence interactions, often imperceptibly, by constituting distinct affordance and salience landscapes. In other words, they determine the possibilities and probabilities of human interactions at scale. Technological mediation, therefore, distorts human intent as a consequence of extending human influence along various dimensions [6].
 
 The degree to which activities in the Techno-economic Order are automated (but not necessarily centralized or decentralized), is also the degree to which they approach the Institutional Order. Thus, engaged citizens demand transparency from both algorithms and institutions, both of which are prone to the _alignment problem_.
 

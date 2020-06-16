@@ -14,11 +14,8 @@ Cooperation, simply put, is any social activity in which at least one participan
 The _Four Dimensions_ of Cooperative Capital are the four essential enabling directions of these resources. In no particular order, they are:
 
 1. Communication
-
 2. Transportation
-
 3. Computation
-
 4. Trust
 
 It may hold that that every solution offered to society aims at enhancements along one or more of these dimensions. The following are two examples which demonstrate.
@@ -38,6 +35,7 @@ It goes without saying that the ability for agents to communicate – whether or
 
 What has been dubbed the &#39;sharing economy&#39; is a uniquely urban phenomenon, to the extent that is intensifies that what the city has always done: allow access to pools of resources and people, facilitate the recombination thereof [7]. Advanced telecommunications technologies have allowed each modern city to develop a digital layer that makes it easier to navigate and query, for enhanced place-based engagement.
 
+<br>
 **TRANSPORTATION**
 
 Also fundamental to cooperation at scale is the ability to organize and access resources and people, in space. Accessibility is a function of the _distribution_ of resources and people, and the _generalized cost_ of transportation between them [8]. A city&#39;s transportation system, therefore, limits its effective size. _Marchetti&#39;s constant_ describes the close correspondence between the geographic size of a city and the distance residents can travel in 30 minutes from their homes. It, therefore, lends credence to the idea that city dwellers have roughly similar commuting time budgets [9]. Consequently, commuting experiences are one of the main causes of stress, and one of the main points of political contestation, in the city.

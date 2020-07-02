@@ -17,7 +17,7 @@ A Unified Theory of Urban Living must consider at least three (3) ways of holdin
 <br>
 **SCALE**
 
-These three (3) ways of holding (aspects) correspond to the macro (invariants), meso (dynamics), and micro (experiences) scales, respectively. However, they are not simply a matter of scale, but rather, of angle of theoretical approach.
+These three (3) ways of holding (aspects) correspond to the macro (INVARIANTS), meso (DYNAMICS), and micro (EXPERIENCES) scales, respectively. However, they are not simply a matter of scale, but rather, of angle of theoretical approach.
 
 As one zooms out from micro to macro:
 

@@ -102,6 +102,7 @@ Cause I&#39;m coming home on the very next train, yes <br>
 I&#39;m coming home and I&#39;ll never leave again <br></i>
 </div>
 
+<br>
 However, for many, there is no real home to return to. It is easier to erode a community than to create one. As Jane Jacobs expressed in _Dark Age Ahead_: once a community dissolves, the memory of its existence often fades, and one forgets that one has forgotten [48]. This especially the case to the extent that an influx of capital turns a place of community into a node in the supply network feeding a metropolis of consumption – &#39;Domicide&#39; my other means than physical violence.
 
 <br>

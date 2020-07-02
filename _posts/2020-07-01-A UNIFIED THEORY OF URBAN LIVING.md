@@ -35,8 +35,8 @@ The three ways aspects ask different questions of urban systems, respectively:
 
 Therefore, a Unified Theory of Urban Living must do more than just hold the urban system in three (3) ways. In attempting to explain, it must also consider the three (3) relationships among the three (3) aspects:
 
-`INVARIANTS` <--> `DYNAMICS`
-`DYNAMICS` <-->  `EXPERIENCES`
+`INVARIANTS` <--> `DYNAMICS` <br>
+`DYNAMICS` <-->  `EXPERIENCES` <br>
 `EXPERIENCES` <--> `INVARIANTS`
 
 For example, in exploring the question of why it is that very few cities die, the concept of memory can be investigated at at least three (3) levels:

@@ -43,7 +43,7 @@ Also fundamental to cooperation at scale is the ability to organize and access r
 
 Further, many urbanists suggest that the comingling of different groups of people in public spaces can act counter to the human tendency to otherize those who appear unfamiliar [10]. In other words, peoples&#39; accessibility to many diverse others can encourage cosmopolitan attitudes. Hence, the transportation network of a city can be a great equalizer, and tool of cooperation, to the degree that it allows seamless travel between neighbourhoods and prevents isolated homogenous pockets from forming.
 
-Conjugate to communication, transportation permits the furtherdivision of labour in society, and the resulting gains in productivity [11].
+Conjugate to communication, transportation permits the further division of labour in society, and the resulting gains in productivity [11].
 
 <br>
 **COMPUTATION**

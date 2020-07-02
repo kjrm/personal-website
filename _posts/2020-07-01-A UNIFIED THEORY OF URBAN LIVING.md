@@ -5,6 +5,7 @@ description: "Tentative program towards a Unified Theory of Urban Living"
 ---
 The following is the outline of a research program for a **Unified Theory of Urban Living**.
 
+<br>
 **THREE APSECTS**
 
 A Unified Theory of Urban Living must consider at least three (3) ways of holding an/the urban system as a theoretical object. It must hold the urban system as:
@@ -13,6 +14,7 @@ A Unified Theory of Urban Living must consider at least three (3) ways of holdin
 2. A complex of processes, mechanisms, or **dynamics** (meso)
 3. A complex of livelihoods, or **experiences** (micro)
 
+<br>
 **SCALE**
 
 These three (3) ways of holding (aspects) correspond to the macro (invariants), meso (dynamics), and micro (experiences) scales, respectively. However, they are not simply a matter of scale, but rather, of angle of theoretical approach.
@@ -22,6 +24,7 @@ As one zooms out from micro to macro:
 - the more the urban system necessitates or affords quantification, abstraction, and prediction; and
 - the less the urban system necessitates or affords qualification, contextualization, and path dependence.
 
+<br>
 **QUESTIONS**
 
 The three ways aspects ask different questions of urban systems, respectively:
@@ -44,6 +47,7 @@ For example, in exploring the question of why it is that very few cities die, th
 
 A unified theory will relate these levels in a coherent way.
 
+<br>
 **DISCOURSES**
 
 The following are examples of the headings and tools of discourses in Urban Studies, placed in the three (3) aspect bins:
@@ -59,6 +63,7 @@ The following are examples of the headings and tools of discourses in Urban Stud
 
 Many of these discourses may very well have instances of crossing the categories described here. A study of the literature will be required to enhance these lists and digest their core lessons.
 
+<br>
 **PROGRAM**
 
 The three (3) aspects – invariants, dynamics, and livelihoods – may prove to be fundamentally incommensurate, i.e. resistant to clean theoretical unification. However, the project may still serve several purposes, including:

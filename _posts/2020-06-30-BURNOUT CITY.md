@@ -86,7 +86,7 @@ Of course, cities are not inevitably and categorically deleterious to wellbeing 
 Inequality&#39;s geographic manifestations have been studied and documented in reports such as David Hulchanski&#39;s _The Three Cities Within Toronto_. The 35 years between 1970 and 2005 saw the population of the City of Toronto double from approximately 2.5M to approximately 5M people. Hulchanski showed that, during this time, the &quot;middle-income area of the city shrank dramatically&quot;, explaining further that &quot;It is not the case that middle-income people in the city have simply moved to the outer suburbs …, since the trends are largely the same in those areas too [46]. Figure 2 below is taken from his report. The colours represent neighbourhoods where the average incomes are 20% less than (red), 20% more than (blue), and within 20% of, the Toronto Metropolitan Area average income. His succession of maps shows a city catching fire.
 
 <figure style="text-align: center">
-  <img src="/assets/blogImages/The Three Cities Within Toronto Figure.jpg" alt="The Three Cities Within Toronto" style="max-width: 550px; width: 100%">
+  <img src="/assets/blogImages/The Three Cities Within Toronto Figure.jpg" alt="The Three Cities Within Toronto" style="max-width: 700px; width: 100%">
   <figcaption><i>Average Individual Income, City of Toronto, Relative to the Toronto CMA, 1970-2005 (source: Hulchanski, 2007)</i></figcaption>
 </figure>
 

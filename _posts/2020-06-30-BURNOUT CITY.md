@@ -3,9 +3,6 @@ title: "Burnout City"
 published: true
 description: "What it's like being the fuel of a wealth engine?"
 ---
-**BURNOUT CITY**
-<br>
-
 **WEALTH ENGINE**
 
 It is popularly held that the wealth of nations is increasingly dependent on the productivity and innovativeness of cities [1][2]. Urban proximity affords the emergence of &quot;dynamical, richly diverse, and interconnected systems&quot;, allowing the incubation of ideas, the recombination of factors, and the reassociation of people. These are the things that allow new forms and functions to be generated. The metropolis is, thereby, seen as a &quot;social reactor&quot; [3] which, by virtue of its &quot;sheer number of and variety of divisions of labour&quot;, is brimming with creative potentiality [4]. The various ways the city gets more out of less – &#39;agglomeration economies&#39; and &#39;agglomeration externalities&#39; – represent the &quot;triumph of the city&quot; [5].
@@ -89,7 +86,7 @@ Of course, cities are not inevitably and categorically deleterious to wellbeing 
 Inequality&#39;s geographic manifestations have been studied and documented in reports such as David Hulchanski&#39;s _The Three Cities Within Toronto_. The 35 years between 1970 and 2005 saw the population of the City of Toronto double from approximately 2.5M to approximately 5M people. Hulchanski showed that, during this time, the &quot;middle-income area of the city shrank dramatically&quot;, explaining further that &quot;It is not the case that middle-income people in the city have simply moved to the outer suburbs …, since the trends are largely the same in those areas too [46]. Figure 2 below is taken from his report. The colours represent neighbourhoods where the average incomes are 20% less than (red), 20% more than (blue), and within 20% of, the Toronto Metropolitan Area average income. His succession of maps shows a city catching fire.
 
 <figure style="text-align: center">
-  <img src="/assets/blogImages/The Three Cities Within Toronto Figure.png" alt="The Three Cities Within Toronto" style="max-width: 500px; width: 85%">
+  <img src="/assets/blogImages/The Three Cities Within Toronto Figure.jpg" alt="The Three Cities Within Toronto" style="max-width: 500px; width: 85%">
   <figcaption><i>Average Individual Income, City of Toronto, Relative to the Toronto CMA, 1970-2005 (source: Hulchanski, 2007)</i></figcaption>
 </figure>
 
@@ -129,7 +126,7 @@ As a concept, Burnout City represents a negative region in the vast phase space 
 8. www.bartleby.com. (n.d.). _Maksim Gorky_ (1868-1936). Coney Island. Warner, et al., comp. 1917. _The Library of the World&#39;s Best Literature_. [online] Available at: https://www.bartleby.com/library/prose/2267.html [Accessed 27 Jun. 2020].
 9. ‌Mcluhan, M. (1973). _Understanding media_. London: Sphere Books.
 10. Alter, R. (2005). _Imagined cities_
-11. ‌ Rem Koolhaas, Architekt (1994). _Delirious New York: a retroactive manifesto for Manhattan_. New York, New York: Monacelli Press.
+11. ‌Rem Koolhaas, Architekt (1994). _Delirious New York: a retroactive manifesto for Manhattan_. New York, New York: Monacelli Press.
 12. Alain Bertaud (2018). _Order without design: how markets shape cities_. Cambridge, Massachusetts: The Mit Press.
 13. Burn-out an &quot;occupational phenomenon&quot;: International Classification of Diseases. (2019). _World Health Organization_. [online] Available at: https://www.who.int/mental\_health/evidence/burnout/en/.
 14. Bettencourt, L.M.A. (2014). Impact of Changing Technology on the Evolution of Complex Informational Networks.
@@ -138,17 +135,17 @@ As a concept, Burnout City represents a negative region in the vast phase space 
 17. Han, B.-C. and Butler, E. (2015). _The burnout society_. Stanford, California: Stanford Briefs, An Imprint Of Stanford University Press.
 18. savvysleeper.org. (n.d.). _Savvy Sleeper - The Cities with The Highest Burnout_. [online] Available at: https://savvysleeper.org/cities-with-highest-burnout/ [Accessed 27 Jun. 2020].
 19. Alter, R. (2005). _Imagined cities_
-20. ‌ Wirth, L. (1938). _Urbanism as a Way of Life_. American Journal of Sociology, 44(1), pp.1–24.
+20. ‌Wirth, L. (1938). _Urbanism as a Way of Life_. American Journal of Sociology, 44(1), pp.1–24.
 21. Alain De Botton (2014). _Status anxiety_. London: Penguin.
 22. Luttmer, E.F.P. (2004). Neighbors as Negatives: Relative Earnings and Well-Being. _SSRN Electronic Journal_.
-23. ‌ René Girard (2004). _A theater of envy: William Shakespeare_. South Bend, Ind.: St. Augustine&#39;s Press.
+23. ‌René Girard (2004). _A theater of envy: William Shakespeare_. South Bend, Ind.: St. Augustine&#39;s Press.
 24. Mumford, L. and Turner, B.S. (2002). _The culture of cities_. London: Routledge/Thoemmes.
 25. Italo Calvino (2009). _Invisible cities_. London Vintage.
-26. ‌ Bettencourt, L.M.A., Lobo, J., Helbing, D., Kuhnert, C. and West, G.B. (2007). Growth, innovation, scaling, and the pace of life in cities. _Proceedings of the National Academy of Sciences_, [online] 104(17), pp.7301–7306. Available at: https://www.pnas.org/content/104/17/7301.
+26. ‌Bettencourt, L.M.A., Lobo, J., Helbing, D., Kuhnert, C. and West, G.B. (2007). Growth, innovation, scaling, and the pace of life in cities. _Proceedings of the National Academy of Sciences_, [online] 104(17), pp.7301–7306. Available at: https://www.pnas.org/content/104/17/7301.
 27. Glaeser, E.L. and Sacerdote, B. (1999). Why is There More Crime in Cities? _Journal of Political Economy_, 107(S6), pp.S225–S258.
 28. Laozi, Watson, B., Addiss, S. and Lombardo, S. (1993). _Tao te ching_. Indianapolis: Hackett Pub. Co.
 29. Alter, R. (2019). _The Hebrew Bible, volume 2 __ __ : Prophets __ __ : Nevi __&#39;__ im_. New York ; London: W. W. Norton &amp; Company.
-30. ‌ Becker, G.S. (1968). Crime and Punishment: An Economic Approach. _Journal of Political Economy_, 76(2), pp.169–217.
+30. ‌Becker, G.S. (1968). Crime and Punishment: An Economic Approach. _Journal of Political Economy_, 76(2), pp.169–217.
 31. Lamar, K. (2012). _Good Kid, M.A.A.D City_. Aftermath.
 32. Daly, M. (2016). _Killing the competition __ __ : economic inequality and homicide_. New Brunswick ; London: Transaction, Cop.
 33. Glaeser, E.L., Resseger, M. and Tobio, K. (2009). INEQUALITY IN CITIES. _Journal of Regional Science_, [online] 49(4), pp.617–646. Available at: https://scholar.harvard.edu/files/resseger/files/glaeserressegertobiojrs.pdf [Accessed 23 Sep. 2019].
@@ -163,7 +160,7 @@ As a concept, Burnout City represents a negative region in the vast phase space 
 42. www.ign.com. (n.d.). _IGN Interviews Christopher Nolan - IGN_. [online] Available at: https://www.ign.com/articles/2007/12/06/ign-interviews-christopher-nolan [Accessed 27 Jun. 2020].
 43. Ritchie, H. and Roser, M. (2018). Urbanization. [online] Our World in Data. Available at: https://ourworldindata.org/urbanization.
 44. Wirth, L. (1938). _Urbanism as a Way of Life_
-45. ‌ Cardoso, R., Meijers, E., van Ham, M., Burger, M. and de Vos, D. (2018). Why bright city lights dazzle and illuminate: A cognitive science approach to urban promises. _Urban Studies_, [online] 56(2), pp.452–470. Available at: https://journals.sagepub.com/doi/full/10.1177/0042098018804762 [Accessed 1 Dec. 2019].
+45. ‌Cardoso, R., Meijers, E., van Ham, M., Burger, M. and de Vos, D. (2018). Why bright city lights dazzle and illuminate: A cognitive science approach to urban promises. _Urban Studies_, [online] 56(2), pp.452–470. Available at: https://journals.sagepub.com/doi/full/10.1177/0042098018804762 [Accessed 1 Dec. 2019].
 46. Florida, R.L. (2018). _The new urban crisis: how our cities are increasing inequality, deepening segregation, and failing the middle class--and what we can do about it_. New York: Basic Books.
 47. transcripts.thedealr.net. (n.d.). _Walking Tall (1973) Script_. [online] Available at: http://transcripts.thedealr.net/script.php/walking-tall-1973-IRT [Accessed 27 Jun. 2020].
 48. Jacobs, J. (2005). _Dark age ahead_. Toronto: Random House Canada.

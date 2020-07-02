@@ -10,9 +10,9 @@ The following is the outline of a research program for a **Unified Theory of Urb
 
 A Unified Theory of Urban Living must consider at least three (3) ways of holding an/the urban system as a theoretical object. It must hold the urban system as:
 
-1. A complex of abstract, static relationships, or `INVARIANTS` (macro)
-2. A complex of processes, mechanisms, or `DYNAMICS` (meso)
-3. A complex of livelihoods, or `EXPERIENCES` (micro)
+1. A complex of abstract, static relationships, or INVARIANTS (macro)
+2. A complex of processes, mechanisms, or DYNAMICS (meso)
+3. A complex of livelihoods, or EXPERIENCES (micro)
 
 <br>
 **SCALE**
@@ -29,15 +29,15 @@ As one zooms out from micro to macro:
 
 The three ways aspects ask different questions of urban systems, respectively:
 
-1. `INVARIANTS`: What lawlike relationships can be observed in urban systems, and what causes them?
-2. `DYNAMICS`: What mechanisms can be observed in urban systems, and what explains them?
-3. `EXPERIENCES`: What are the lived experiences of urban subjects, and what influences them?
+1. INVARIANTS: What lawlike relationships can be observed in urban systems, and what causes them?
+2. DYNAMICS: What mechanisms can be observed in urban systems, and what explains them?
+3. EXPERIENCES: What are the lived experiences of urban subjects, and what influences them?
 
 Therefore, a Unified Theory of Urban Living must do more than just hold the urban system in three (3) ways. In attempting to explain, it must also consider the three (3) relationships among the three (3) aspects:
 
-`INVARIANTS` <--> `DYNAMICS` <br>
-`DYNAMICS` <-->  `EXPERIENCES` <br>
-`EXPERIENCES` <--> `INVARIANTS`
+INVARIANTS <--> DYNAMICS <br>
+DYNAMICS <-->  EXPERIENCES <br>
+EXPERIENCES <--> INVARIANTS
 
 For example, in exploring the question of why it is that very few cities die, the concept of memory can be investigated at at least three (3) levels:
 
@@ -52,13 +52,13 @@ A unified theory will relate these levels in a coherent way.
 
 The following are examples of the headings and tools of discourses in Urban Studies, placed in the three (3) aspect bins:
 
-`INVARIANTS`
+INVARIANTS <br>
  Urban Scaling Laws, Urban Constants, The Laws of Settlements, Agglomeration Economies, Spatial Equilibrium, Econometrics…
 
-`DYNAMICS`
+DYNAMICS <br>
  Agglomeration Mechanisms, Social Physics, Spatial Processes (e.g. Gentrification, Segregation, Sprawl, Decay, Diffusion), Urban Modelling (e.g. Cellular Automata, Agent Based Modelling, Choice Modelling), Evolutionary Economic Geography, …
 
-`EXPERIENCES`
+EXPERIENCES <br>
  Psychogeography, Cognitive geography, Cognitive Mapping, Sense of Place, Community, Urban Culture, Urban Consciousness, Urban Ethnography, Happy City, Livable Cities, Cities for People…
 
 Many of these discourses may very well have instances of crossing the categories described here. A study of the literature will be required to enhance these lists and digest their core lessons.
@@ -66,7 +66,7 @@ Many of these discourses may very well have instances of crossing the categories
 <br>
 **PROGRAM**
 
-The three (3) aspects – `INVARIANTS`, `DYNAMICS`, and `EXPERIENCES` – may prove to be fundamentally incommensurate, i.e. resistant to clean theoretical unification. However, the project may still serve several purposes, including:
+The three (3) aspects – INVARIANTS, DYNAMICS, and EXPERIENCES – may prove to be fundamentally incommensurate, i.e. resistant to clean theoretical unification. However, the project may still serve several purposes, including:
 
 - Cross fertilization of ideas amoung discourses;
 - The development of a common language for Urban Studies, to the extent that this is useful in addressing urban issues;

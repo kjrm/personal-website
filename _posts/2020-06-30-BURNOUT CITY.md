@@ -93,13 +93,13 @@ Inequality&#39;s geographic manifestations have been studied and documented in r
 A song featured in the 1973 movie _Walking Tall_ may have captured the sentiment of many [47]:
 
 <div align="center">
->Made a mistake long time ago
->&#39;Cause I wanted to see the lights of the city
->The big town called me and I just had to go
->But a fire behind the lights is not too pretty
->Hey, hey, hey
->Cause I&#39;m coming home on the very next train, yes
->I&#39;m coming home and I&#39;ll never leave again
+>Made a mistake long time ago <br>
+&#39;Cause I wanted to see the lights of the city <br>
+The big town called me and I just had to go <br>
+But a fire behind the lights is not too pretty <br>
+Hey, hey, hey <br>
+Cause I&#39;m coming home on the very next train, yes <br>
+I&#39;m coming home and I&#39;ll never leave again
 </div>
 
 However, for many, there is no real home to return to. It is easier to erode a community than to create one. As Jane Jacobs expressed in _Dark Age Ahead_: once a community dissolves, the memory of its existence often fades, and one forgets that one has forgotten [48]. This especially the case to the extent that an influx of capital turns a place of community into a node in the supply network feeding a metropolis of consumption – &#39;Domicide&#39; my other means than physical violence.

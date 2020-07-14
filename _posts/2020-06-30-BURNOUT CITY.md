@@ -161,7 +161,7 @@ As a concept, Burnout City represents a negative region in the vast phase space 
 27. Italo Calvino (2009). _Invisible cities_. London Vintage.
 28. ‌Bettencourt, L.M.A., Lobo, J., Helbing, D., Kuhnert, C. and West, G.B. (2007). Growth, innovation, scaling, and the pace of life in cities. _Proceedings of the National Academy of Sciences_, [online] 104(17), pp.7301–7306. Available at: https://www.pnas.org/content/104/17/7301.
 29. Glaeser, E.L. and Sacerdote, B. (1999). Why is There More Crime in Cities? _Journal of Political Economy_, 107(S6), pp.S225–S258.
-30. Putnma, R. (2000). _Bowling Alone_. Simon &amp; Schuster.
+30. Putman, R. (2000). _Bowling Alone_. Simon &amp; Schuster.
 31. Laozi, Watson, B., Addiss, S. and Lombardo, S. (1993). _Tao te ching_. Indianapolis: Hackett Pub. Co.
 32. Alter, R. (2019). _The Hebrew Bible, volume 2  __** **__  : Prophets  __** **__  : Nevi  __**&#39;**__  im_. New York ; London: W. W. Norton &amp; Company.
 33. ‌Becker, G.S. (1968). Crime and Punishment: An Economic Approach. _Journal of Political Economy_, 76(2), pp.169–217.

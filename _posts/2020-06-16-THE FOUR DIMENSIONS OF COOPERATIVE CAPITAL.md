@@ -52,7 +52,7 @@ Computation refers to the use of algorithms to convert a certain kind of availab
 
 Computation is _substrate independent_: it can happen throughout a network of digital computers; throughout a hierarchy of employees in a bureaucracy; in a machine; or though the actions of participants performing a ritual. Brian Arthur suggests that &quot;the economy is an ongoing _computation_ – a vast, distributed, massively parallel, stochastic one&quot; [12].
 
-To prevent crippling congestion, dense urban areas require a level of conscious orchestration that is not required in sparser settings. Hence, for example, urban planners are involved in the _programming_ of multi-use spaces; urban traffic engineers implement demand-responsive traffic control systems (e.g. _dynamic reversible lanes_); and urban school administrators rely on clearinghouse algorithms to match students and schools [13].
+To prevent crippling congestion, dense urban areas require a level of conscious orchestration that is not required in sparser settings. Hence, for example, urban planners and architects are involved in the _programming_ of multi-use spaces; urban traffic engineers implement demand-responsive traffic control systems (e.g. _dynamic reversible lanes_); and urban school administrators rely on clearinghouse algorithms to match students and schools [13].
 
 Large institutions and organizations embody algorithms – to the degree than they rely on impersonal decision-making through a set of consistent and stable rules, where the order of operations matters. These institutions control the flow of information to make effective decisions. For example, a court of law permits the sharing of some kinds of information, at certain times, and not others, following certain procedures, etc. Urbanites come to know that, much like a digital computer, an institution that serves many people is relatively &#39;dumb&#39;: if you do not present it with the right information in the right format at the right time, it will not work for you.
 
@@ -112,7 +112,7 @@ This simple depiction is meant to evoke several things:
 
 - There is no Trust or Computation without Communication and Transportation. However, a large agglomeration of people with no Trust or Computation is not a society, but a &#39;flattened&#39; warzone;
 - The technologies and institutions of Computation are only effectual to the extent that people Trust them, i.e. distrust can eliminate the gains of Computation;
-- The deeper Computation permeates into a society, the less explicable and transparent are its working and influences; and
+- The deeper Computation permeates into a society, the less explicable and transparent its working and influences tends to be; and
 - The stability of a society rests, to a significant degree, on its level of Trust.
 
 <br>

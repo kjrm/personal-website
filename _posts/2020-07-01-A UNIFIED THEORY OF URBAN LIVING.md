@@ -11,7 +11,7 @@ The following is the outline of a research program for a **Unified Theory of Urb
 A Unified Theory of Urban Living must consider at least three (3) ways of holding an/the urban system as a theoretical object. It must hold the urban system as:
 
 1. A complex of abstract, static relationships, or INVARIANTS (macro)
-2. A complex of processes, mechanisms, or DYNAMICS (meso)
+2. A complex of processes, mechanisms, rhythms, or DYNAMICS (meso)
 3. A complex of livelihoods, or EXPERIENCES (micro)
 
 <br>
@@ -50,13 +50,17 @@ A unified theory will relate these levels in a coherent way.
 <br>
 **DISCOURSES**
 
-The following are examples of the headings and tools of discourses in Urban Studies, placed in the three (3) aspect bins:
+The following are examples of the headings and tools of discourses in Urban Studies, placed in the three (3) aspect bins. DYNAMICS has been broken down into RHYTHMS and PROCESSES to distinguish shorter, and longer, temporal scales, respectively:
 
 INVARIANTS <br>
  Urban Scaling Laws, Urban Constants, The Laws of Settlements, Agglomeration Economies, Spatial Equilibrium, Econometrics…
 
 DYNAMICS <br>
- Agglomeration Mechanisms, Social Physics, Spatial Processes (e.g. Gentrification, Segregation, Sprawl, Decay, Diffusion), Urban Modelling (e.g. Cellular Automata, Agent Based Modelling, Choice Modelling, Land-Use Change Modelling), Evolutionary Economic Geography, …
+ RHYTHMS
+ Destination Choice Modelling, Traffic Modelling, Mode Choice Modelling, Social Physics, ...
+
+ PROCESSES
+ Agglomeration Mechanisms, Spatial Processes (Gentrification, Segregation, Sprawl, Decay, Diffusion, etc.), Urban Modelling/Simulation (Cellular Automata, Agent Based Modelling, Location Choice Modelling, Land-Use Change Modelling, etc.), Evolutionary Economic Geography, Evolution of Urban Morphology, unfolding expressions of an Urban Grammar or Pattern Language, …
 
 EXPERIENCES <br>
  Psychogeography, Cognitive geography, Cognitive Mapping, Sense of Place, Community, Urban Culture, Urban Consciousness, Urban Ethnography, Happy City, Livable Cities, Cities for People…

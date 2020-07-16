@@ -11,6 +11,11 @@ For some, there is more triumph left to be had. It is thought that, if a class o
 
 But _what is it like_ being fuel in a social reactor? What is the experience of the urban subject in a socioeconomic wealth engine?
 
+<figure style="text-align: center">
+  <img src="/assets/blogImages/DaylightSavings5" alt="Burnout vs Size" style="max-width: 500px; width: 85%">
+  <figcaption><i>Figure 1 - Daylight Savings: Turn clocks forward one hour to maintain efficiency</i></figcaption>
+</figure>
+
 <br>
 **DELIRIOUS CITY**
 
@@ -41,11 +46,11 @@ In his book _The Burnout Society_, the philosopher Byung-Chul Han posits that th
 
 To the overly stereotypical neoliberal economist: people are never economically rational enough, therefore capital and labour are never mobile enough, therefore markets are never efficient enough. But in the perfectly neoliberal city, where people are infinitely flexible and reactive, there can be no such thing as character, community, or sovereignty in any meaningful sense. The degree to which economic markets determine behaviour is the degree to which the not-easily-commodifiable aspects of life risk being woefully undersupplied (e.g. care, companionship, authenticity itself). Without significant opposing effort, such a cultural environment becomes void of the life-affirming qualities that inspire people to sustain their efforts.
 
-Figure 1 below hints at a positive association between susceptibility to burnout and city size. It presents the 2019 burnout index for 69 cities (in 53 countries) against the log of their populations, showing that approximately 40% of the variance in burnout index can be accounted for by city size. The burnout index used was created by SavvySleeper from several sources, featuring data on: &quot;Time Spent in Traffic From Work&quot;, &quot;Mental Health Disorder &amp; Substance Abuse Prevalence&quot;, &quot;Employee Presenteeism&quot;, &quot;Vacation Time&quot;, &quot;Amount of Stressed Employee Reviews&quot;, &quot;Lack of Motivation at Work&quot;, &quot;Annual Work Hours&quot;, &quot;Population Working More Than 48 Hours&quot;, and &quot;Population Sleeping Less Than 7 Hours&quot; [20]. This relationship is open for more thorough research.
+Figure 2 below hints at a positive association between susceptibility to burnout and city size. It presents the 2019 burnout index for 69 cities (in 53 countries) against the log of their populations, showing that approximately 40% of the variance in burnout index can be accounted for by city size. The burnout index used was created by SavvySleeper from several sources, featuring data on: &quot;Time Spent in Traffic From Work&quot;, &quot;Mental Health Disorder &amp; Substance Abuse Prevalence&quot;, &quot;Employee Presenteeism&quot;, &quot;Vacation Time&quot;, &quot;Amount of Stressed Employee Reviews&quot;, &quot;Lack of Motivation at Work&quot;, &quot;Annual Work Hours&quot;, &quot;Population Working More Than 48 Hours&quot;, and &quot;Population Sleeping Less Than 7 Hours&quot; [20]. This relationship is open for more thorough research.
 
 <figure style="text-align: center">
   <img src="/assets/blogImages/Burnout Index vs Population.png" alt="Burnout vs Size" style="max-width: 500px; width: 85%">
-  <figcaption><i>Relationship between city size and risk of burnout</i></figcaption>
+  <figcaption><i>Figure 2 - Relationship between city size and risk of burnout</i></figcaption>
 </figure>
 
 It could be the case that freedom without overstimulation avoids its possible deleterious effects on well-being. But an &#39;attention economy&#39; of escalating competitors is likely to emerge in any mass medium with freedom of expression. And the creation of &#39;supernormal stimuli&#39; is one prominent tactic of &#39;information warfare&#39; in such a hyperconnected medium.
@@ -96,11 +101,11 @@ Delirium, anomie, burnout, unsatiated desires, crime – this is surely an exagg
 
 Of course, cities are not inevitably and categorically deleterious to wellbeing and effective livelihood. However, it has long been known that we often make choices contra to our wellbeing, especially when we are bombarded with the glittering images of mass media which have their own agenda. The city is more than a landscape of economic opportunities. It is a cultural emergent, casting its light to the world through music, movies, and other electronic and digital media. As Louis Wirth put it, &quot;the city … must recruit its migrants from other cities, the countryside, and … from other countries&quot; [46]. One group of researchers takes a behavioural science approach to the study of location decisions. They suggest that &quot;outcomes and experiences of urban life compare poorly with the overoptimistic expectations of many newcomers&quot;, and that this is due to certain biases, heuristics, and cognitive limitations in our appraisal and decision-making [47]. There has been a growing concern that urbanization is no longer associated with social mobility [48]. Despite this, people continue to take the gamble.
 
-Inequality&#39;s geographic manifestations have been studied and documented in reports such as David Hulchanski&#39;s _The Three Cities Within Toronto_. The 35 years between 1970 and 2005 saw the population of the City of Toronto double from approximately 2.5M to approximately 5M people. Hulchanski showed that, during this time, the &quot;middle-income area of the city shrank dramatically&quot;, explaining further that &quot;It is not the case that middle-income people in the city have simply moved to the outer suburbs …, since the trends are largely the same in those areas too [49]. Figure 2 below is taken from his report. The colours represent neighbourhoods where the average incomes are 20% less than (red), 20% more than (blue), and within 20% of, the Toronto Metropolitan Area average income. His succession of maps shows a city catching fire.
+Inequality&#39;s geographic manifestations have been studied and documented in reports such as David Hulchanski&#39;s _The Three Cities Within Toronto_. The 35 years between 1970 and 2005 saw the population of the City of Toronto double from approximately 2.5M to approximately 5M people. Hulchanski showed that, during this time, the &quot;middle-income area of the city shrank dramatically&quot;, explaining further that &quot;It is not the case that middle-income people in the city have simply moved to the outer suburbs …, since the trends are largely the same in those areas too [49]. Figure 3 below is taken from his report. The colours represent neighbourhoods where the average incomes are 20% less than (red), 20% more than (blue), and within 20% of, the Toronto Metropolitan Area average income. His succession of maps shows a city catching fire.
 
 <figure style="text-align: center">
   <img src="/assets/blogImages/The Three Cities Within Toronto Figure.jpg" alt="The Three Cities Within Toronto" style="max-width: 700px; width: 100%">
-  <figcaption><i>Average Individual Income, City of Toronto, Relative to the Toronto CMA, 1970-2005 (source: Hulchanski, 2007)</i></figcaption>
+  <figcaption><i>Figure 3 - Average Individual Income, City of Toronto, Relative to the Toronto CMA, 1970-2005 (source: Hulchanski, 2007)</i></figcaption>
 </figure>
 
 A song featured in the 1973 movie _Walking Tall_ may have captured the sentiment of many [50]:

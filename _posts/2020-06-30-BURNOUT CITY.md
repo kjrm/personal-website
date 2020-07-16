@@ -12,7 +12,7 @@ For some, there is more triumph left to be had. It is thought that, if a class o
 But _what is it like_ being fuel in a social reactor? What is the experience of the urban subject in a socioeconomic wealth engine?
 
 <figure style="text-align: center">
-  <img src="/assets/blogImages/DaylightSavings5" alt="Burnout vs Size" style="max-width: 500px; width: 85%">
+  <img src="/assets/blogImages/DaylightSavings5.jpeg" alt="Daylight Savings" style="max-width: 500px; width: 85%">
   <figcaption><i>Figure 1 - Daylight Savings: Turn clocks forward one hour to maintain efficiency</i></figcaption>
 </figure>
 

@@ -137,6 +137,7 @@
 .post-card {
   color: black;
   transition: 0.2s;
+  height: 100%;
 }
 
 .post-card:hover{
@@ -178,4 +179,8 @@
   .hero-right {
     padding-left: 0;
    }
+}
+
+.text-align {
+  text-align: left;
 }

@@ -2,6 +2,7 @@
 title: "A Unified Theory of Urban Living"
 published: true
 description: "Tentative program towards a Unified Theory of Urban Living"
+type: "note"
 ---
 The following is the outline of a research program for a **Unified Theory of Urban Living**.
 

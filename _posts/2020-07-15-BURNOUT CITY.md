@@ -2,6 +2,7 @@
 title: "Burnout City"
 published: true
 description: "What it's like being the fuel of a wealth engine?"
+type: "article"
 ---
 **WEALTH ENGINE**
 

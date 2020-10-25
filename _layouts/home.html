@@ -7,6 +7,11 @@
       {% include thoughts.html %}
     </div>
   {% endunless %}
+  {% unless posts_total == 0 %}
+    <div class="my-6">
+      {% include notes.html %}
+    </div>
+  {% endunless %}
 </div>
 
 {% include footer.html %}

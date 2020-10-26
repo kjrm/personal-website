@@ -1,5 +1,5 @@
 ---
-title: "Burnout City"
+title: "Burnout City Old"
 published: false
 description: "What it's like being the fuel of a wealth engine?"
 type: "article"

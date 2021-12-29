@@ -1,6 +1,6 @@
 ---
 title: "The Three Orders of Organized Human Activity"
-published: true
+published: false
 description: "Presenting a tripartite framework for thinking about the complex interdependencies within modern socieities"
 type: "note"
 ---

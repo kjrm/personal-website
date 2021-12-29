@@ -1,6 +1,6 @@
 ---
 title: "A Unified Theory of Urban Living"
-published: true
+published: false
 description: "Tentative program towards a Unified Theory of Urban Living"
 type: "note"
 ---

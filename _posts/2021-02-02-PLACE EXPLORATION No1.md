@@ -1,6 +1,6 @@
 ---
 title: "Place Exploration #1"
-published: true
+published: false
 description: "For the life of place"
 type: "article"
 file_document_path: "../assets/Place_Exploration_No1_Khalil_Martin_2021.pdf"

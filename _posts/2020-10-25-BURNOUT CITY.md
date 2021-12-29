@@ -1,6 +1,6 @@
 ---
 title: "Burnout City"
-published: true
+published: false
 description: "What it's like being the fuel of a wealth engine?"
 type: "article"
 file_document_path: "../assets/Burnout City_Khalil Martin_2020.pdf"

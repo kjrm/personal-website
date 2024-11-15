@@ -1,6 +1,6 @@
 ---
 title: "The Four Dimensions of Cooperative Capital"
-published: true
+published: false
 description: "A four-dimensional exploration of the elements that allow societies to scale and adapt"
 type: "note"
 ---
